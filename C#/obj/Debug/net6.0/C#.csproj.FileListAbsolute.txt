@@ -1,0 +1,15 @@
+D:\GeekBrains\1 четверть\Контрольная работа\c#\bin\Debug\net6.0\C#.exe
+D:\GeekBrains\1 четверть\Контрольная работа\c#\bin\Debug\net6.0\C#.deps.json
+D:\GeekBrains\1 четверть\Контрольная работа\c#\bin\Debug\net6.0\C#.runtimeconfig.json
+D:\GeekBrains\1 четверть\Контрольная работа\c#\bin\Debug\net6.0\C#.dll
+D:\GeekBrains\1 четверть\Контрольная работа\c#\bin\Debug\net6.0\C#.pdb
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.csproj.AssemblyReference.cache
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.AssemblyInfoInputs.cache
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.AssemblyInfo.cs
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.csproj.CoreCompileInputs.cache
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.dll
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\refint\C#.dll
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.pdb
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\C#.genruntimeconfig.cache
+D:\GeekBrains\1 четверть\Контрольная работа\c#\obj\Debug\net6.0\ref\C#.dll

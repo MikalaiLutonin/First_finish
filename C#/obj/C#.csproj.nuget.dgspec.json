@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GeekBrains\\1 четверть\\Контрольная работа\\C#\\C#.csproj": {}
+    "D:\\GeekBrains\\1 четверть\\Контрольная работа\\c#\\C#.csproj": {}
   },
   "projects": {
-    "D:\\GeekBrains\\1 четверть\\Контрольная работа\\C#\\C#.csproj": {
+    "D:\\GeekBrains\\1 четверть\\Контрольная работа\\c#\\C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GeekBrains\\1 четверть\\Контрольная работа\\C#\\C#.csproj",
+        "projectUniqueName": "D:\\GeekBrains\\1 четверть\\Контрольная работа\\c#\\C#.csproj",
         "projectName": "C#",
-        "projectPath": "D:\\GeekBrains\\1 четверть\\Контрольная работа\\C#\\C#.csproj",
+        "projectPath": "D:\\GeekBrains\\1 четверть\\Контрольная работа\\c#\\C#.csproj",
         "packagesPath": "C:\\Users\\mluto\\.nuget\\packages\\",
-        "outputPath": "D:\\GeekBrains\\1 четверть\\Контрольная работа\\C#\\obj\\",
+        "outputPath": "D:\\GeekBrains\\1 четверть\\Контрольная работа\\c#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mluto\\AppData\\Roaming\\NuGet\\NuGet.Config"
